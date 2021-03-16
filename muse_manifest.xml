@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="healthalert.io" resolutions="1x" timestamp="1615843547622">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="healthalert.io" resolutions="1x" timestamp="1615936640688">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_footer.css" crc="171724831" ref="app:people:index:contact"/>
+    <file name="master_footer.css" crc="64851148" ref="app:people:index:contact"/>
     <file name="nomq_preview_master_footer.css" crc="3824530138" ref="app:people:index:contact"/>
-    <file name="master_black-nav.css" crc="4267962514" ref="app:people:index:contact"/>
-    <file name="nomq_preview_master_black-nav.css" crc="326866925" ref="app:people:index:contact"/>
-    <file name="app.css" crc="4169394679" ref="app"/>
-    <file name="nomq_app.css" crc="74096734" ref="app"/>
-    <file name="people.css" crc="3838131601" ref="people"/>
-    <file name="nomq_people.css" crc="244902132" ref="people"/>
-    <file name="index.css" crc="356926059" ref="index"/>
-    <file name="nomq_index.css" crc="4204533878" ref="index"/>
-    <file name="contact.css" crc="3929630135" ref="contact"/>
-    <file name="nomq_contact.css" crc="4286894769" ref="contact"/>
+    <file name="master_black-nav.css" crc="307891236" ref="app:people:index:contact"/>
+    <file name="nomq_preview_master_black-nav.css" crc="287530610" ref="app:people:index:contact"/>
+    <file name="app.css" crc="3913674537" ref="app"/>
+    <file name="nomq_app.css" crc="259760736" ref="app"/>
+    <file name="people.css" crc="4150447656" ref="people"/>
+    <file name="nomq_people.css" crc="4080149202" ref="people"/>
+    <file name="index.css" crc="4273504679" ref="index"/>
+    <file name="nomq_index.css" crc="45426425" ref="index"/>
+    <file name="contact.css" crc="207456114" ref="contact"/>
+    <file name="nomq_contact.css" crc="3930133707" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:app:contact:people"/>
@@ -29,71 +29,60 @@
     <file name="require.js" crc="4177726516" ref="index:app:contact:people"/>
   </folder>
   <folder name="images">
-    <file name="alt-health-alert-logo.svg" crc="4066004640" ref="index:app"/>
-    <file name="alt-health-alert-logo_poster_u17020.png" crc="4276616929" ref="index:app"/>
-    <file name="lightning over small town.jpg" crc="4285954154" ref="index:app:contact">
-      <caption webpage="contactorig" alt=""/>
-      <caption webpage="contactorig" alt=""/>
+    <file name="alt-health-alert-logo.svg" crc="4066004640" ref="index"/>
+    <file name="alt-health-alert-logo_poster_u17020.png" crc="4276616929" ref="index"/>
+    <file name="lightning over small town.jpg" crc="2103585" ref="contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="app" alt=""/>
-      <caption webpage="investors" alt=""/>
-      <caption webpage="investors" alt=""/>
-      <caption webpage="investors" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="disabledapp" alt=""/>
-      <caption webpage="disabledapp" alt=""/>
-      <caption webpage="home-copy" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="home-copy-2" alt=""/>
       <caption webpage="home-copy-2" alt=""/>
     </file>
     <file name="hamburger-menu-white.svg" crc="3856289022" ref="index"/>
     <file name="hamburger-menu-white_poster_u2633.png" crc="3758310664" ref="index"/>
-    <file name="lightning over small town1536x1028.jpg" crc="4062343885" ref="index">
+    <file name="lightning over small town1536x1028.jpg" crc="406208708" ref="contact">
       <caption webpage="index" alt=""/>
-      <caption webpage="app" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="lightning over small town1200x803.jpg" crc="4271523313" ref="index">
+    <file name="lightning over small town800x535.jpg" crc="305591476" ref="contact">
       <caption webpage="index" alt=""/>
-      <caption webpage="app" alt=""/>
-    </file>
-    <file name="lightning over small town852x570.jpg" crc="213845273" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="app" alt=""/>
-    </file>
-    <file name="lightning over small town800x535.jpg" crc="398994558" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="app" alt=""/>
-    </file>
-    <file name="collage5.gif" crc="506083712" ref="people">
-      <caption webpage="peopleorig" alt=""/>
-      <caption webpage="peopleorig" alt=""/>
-      <caption webpage="peopleorig" alt=""/>
-      <caption webpage="peopleorig" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="download_on_the_app_store_badge_us-uk_rgb_wht_092917.svg" crc="4259240683" seo="true" ref="app">
-      <caption webpage="disabledapp" alt=""/>
-      <caption webpage="disabledapp" alt=""/>
-      <caption webpage="disabledapp" alt=""/>
-      <caption webpage="disabledapp" alt=""/>
-      <caption webpage="disabledapp" alt=""/>
-      <caption webpage="disabledapp" alt=""/>
-      <caption webpage="app" alt=""/>
       <caption webpage="app" alt=""/>
       <caption webpage="app" alt=""/>
       <caption webpage="app" alt=""/>
       <caption webpage="app" alt=""/>
     </file>
+    <file name="download_on_the_app_store_badge_us-uk_rgb_wht_092917_poster_.png" crc="375337242" ref="app"/>
     <file name="blank.gif" crc="4208392903" ref="app:contact:people"/>
+    <file name="collage5.gif" crc="506083712" ref="people">
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="adobestock_237618207.jpg" crc="169674242" ref="index:app">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="app" alt=""/>
+    </file>
+    <file name="adobestock_2376182071920x1280.jpg" crc="356040976" ref="app">
+      <caption webpage="app" alt=""/>
+    </file>
+    <file name="adobestock_2376182071536x1024.jpg" crc="270183975" ref="app">
+      <caption webpage="app" alt=""/>
+    </file>
+    <file name="adobestock_237618207800x533.jpg" crc="85726118" ref="app">
+      <caption webpage="app" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3842233761" seo="true" mt="1615841712373" redirect="true"/>
-  <file name="app.html" crc="4253288767" seo="true" mt="1615841862812" redirect="true"/>
-  <file name="contact.html" crc="48847558" seo="true" mt="1615841712373" redirect="true"/>
-  <file name="people.html" crc="4113442306" seo="true" mt="1615841712373" redirect="true"/>
+  <file name="index.html" crc="4059468609" seo="true" mt="1615935459026" redirect="true"/>
+  <file name="app.html" crc="4034461765" seo="true" mt="1615935543150" redirect="true"/>
+  <file name="contact.html" crc="311054002" seo="true" mt="1615931318145" redirect="true"/>
+  <file name="people.html" crc="345630505" seo="true" mt="1615931318145" redirect="true"/>
 </manifest>

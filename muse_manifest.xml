@@ -1,17 +1,17 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="healthalert.io" resolutions="1x" timestamp="1616001057890">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="healthalert.io" resolutions="1x" timestamp="1616001888609">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_black-nav.css" crc="4250722459" ref="index:app:contact:people"/>
     <file name="nomq_preview_master_black-nav.css" crc="4275868328" ref="index:app:contact:people"/>
     <file name="master_footer.css" crc="171724831" ref="index:app:contact:people"/>
     <file name="nomq_preview_master_footer.css" crc="3824530138" ref="index:app:contact:people"/>
-    <file name="index.css" crc="3805395930" ref="index"/>
+    <file name="index.css" crc="145331469" ref="index"/>
     <file name="nomq_index.css" crc="3804554005" ref="index"/>
-    <file name="app.css" crc="444336952" ref="app"/>
+    <file name="app.css" crc="105644553" ref="app"/>
     <file name="nomq_app.css" crc="4111293373" ref="app"/>
-    <file name="contact.css" crc="4173252694" ref="contact"/>
+    <file name="contact.css" crc="352978006" ref="contact"/>
     <file name="nomq_contact.css" crc="3977575310" ref="contact"/>
-    <file name="people.css" crc="3859952859" ref="people"/>
+    <file name="people.css" crc="455149412" ref="people"/>
     <file name="nomq_people.css" crc="4043943363" ref="people"/>
   </folder>
   <folder name="scripts">
@@ -74,8 +74,8 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="app"/>
   </folder>
-  <file name="index.html" crc="4152948719" seo="true" mt="1616000246961" redirect="true"/>
-  <file name="contact.html" crc="4114044749" seo="true" mt="1616000246961" redirect="true"/>
-  <file name="people.html" crc="47393962" seo="true" mt="1616000246961" redirect="true"/>
-  <file name="app.html" crc="3837652251" seo="true" mt="1616000523185" redirect="true"/>
+  <file name="index.html" crc="4133782875" seo="true" mt="1616001837110" redirect="true"/>
+  <file name="contact.html" crc="228752612" seo="true" mt="1616001837110" redirect="true"/>
+  <file name="people.html" crc="534593012" seo="true" mt="1616001837110" redirect="true"/>
+  <file name="app.html" crc="185955767" seo="true" mt="1616001837110" redirect="true"/>
 </manifest>

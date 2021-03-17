@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="healthalert.io" resolutions="1x" timestamp="1616002760290">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="healthalert.io" resolutions="1x" timestamp="1616020860236">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_black-nav.css" crc="331833998" ref="index:app:contact:people"/>
-    <file name="nomq_preview_master_black-nav.css" crc="4200877583" ref="index:app:contact:people"/>
+    <file name="master_black-nav.css" crc="4250722459" ref="index:app:contact:people"/>
+    <file name="nomq_preview_master_black-nav.css" crc="4275868328" ref="index:app:contact:people"/>
     <file name="master_footer.css" crc="171724831" ref="index:app:contact:people"/>
     <file name="nomq_preview_master_footer.css" crc="3824530138" ref="index:app:contact:people"/>
     <file name="index.css" crc="145331469" ref="index"/>
     <file name="nomq_index.css" crc="3804554005" ref="index"/>
-    <file name="app.css" crc="4181950558" ref="app"/>
-    <file name="nomq_app.css" crc="4211159466" ref="app"/>
+    <file name="app.css" crc="264876317" ref="app"/>
+    <file name="nomq_app.css" crc="344271635" ref="app"/>
     <file name="contact.css" crc="352978006" ref="contact"/>
     <file name="nomq_contact.css" crc="3977575310" ref="contact"/>
     <file name="people.css" crc="455149412" ref="people"/>
@@ -29,8 +29,8 @@
     <file name="require.js" crc="4177726516" ref="index:contact:people:app"/>
   </folder>
   <folder name="images">
-    <file name="alt-health-alert-logo.svg" crc="4066004640" ref="index:app"/>
-    <file name="alt-health-alert-logo_poster_u17020.png" crc="4276616929" ref="index:app"/>
+    <file name="alt-health-alert-logo.svg" crc="4066004640" ref="index"/>
+    <file name="alt-health-alert-logo_poster_u17020.png" crc="4276616929" ref="index"/>
     <file name="adobestock_237618207.jpg" crc="169674242" ref="index:app">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -38,8 +38,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="app" alt=""/>
     </file>
-    <file name="hamburger-menu-white.svg" crc="3856289022" ref="index:app"/>
-    <file name="hamburger-menu-white_poster_u2633.png" crc="3758310664" ref="index:app"/>
+    <file name="hamburger-menu-white.svg" crc="3856289022" ref="index"/>
+    <file name="hamburger-menu-white_poster_u2633.png" crc="3758310664" ref="index"/>
     <file name="lightning over small town.jpg" crc="2103585" ref="contact">
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -74,8 +74,8 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="app"/>
   </folder>
-  <file name="index.html" crc="4133782875" seo="true" mt="1616001837110" redirect="true"/>
-  <file name="contact.html" crc="228752612" seo="true" mt="1616001837110" redirect="true"/>
-  <file name="people.html" crc="534593012" seo="true" mt="1616001837110" redirect="true"/>
-  <file name="app.html" crc="71683516" seo="true" mt="1616002672092" redirect="true"/>
+  <file name="index.html" crc="4133782875" seo="true" mt="1616019410514" redirect="true"/>
+  <file name="contact.html" crc="228752612" seo="true" mt="1616019410514" redirect="true"/>
+  <file name="people.html" crc="534593012" seo="true" mt="1616019410514" redirect="true"/>
+  <file name="app.html" crc="164439856" seo="true" mt="1616020833077" redirect="true"/>
 </manifest>
